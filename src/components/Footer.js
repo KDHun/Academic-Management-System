@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Footer = () => {
+export const Footer = (props) => {
 var style = {
     backgroundColor: "black",
     borderTop: "1px solid 000000",
