@@ -40,8 +40,8 @@ function Login() {
           // ref={pwdRef}
            />
           <Form.Text className="text-muted">
-            If you are logining in for the first time use DOB as the password in
-            format 'yyyy-mm-dd'
+            If you are logining in for the first time use Phone Number as the password in
+            format 'xxxxxxxxxx'
           </Form.Text>
         </Form.Group>
         <Button variant="primary" type="submit" style={style2}>
